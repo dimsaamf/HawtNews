@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hawt News</string>
+    <string name="api_key">e063c9ac3da14c01911f3741bfca97dc</string>
+    <string name="tittle">Hawt News</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">masuk</string>
+    <string name="register">daftar</string>
+    <string name="back">kembali</string>
+    <string name="logout">Logout</string>
+    <string name="regtittle">REGISTRASI DATA</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+</resources>
